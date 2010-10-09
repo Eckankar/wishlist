@@ -1,0 +1,57 @@
+---
+wishes:
+    - category: Boardgames
+      type: games
+      items:
+        - name:  Totally Renamed Spy Game
+          note:  Also known as "Before I Kill You, Mr. Bond".
+          maker: Cheapass Games
+          image: boardgames/spygame.jpg
+          links:
+            - title: BoardGameGeek
+              url: http://boardgamegeek.com/boardgame/164/before-i-kill-you-mr-bond
+            - title: Wikipedia
+              url: http://en.wikipedia.org/wiki/Before_I_Kill_You,_Mr._Bond
+            - title: Amazon
+              url: http://www.amazon.co.uk/CAG530-Totally-Renamed-Spy-Game/dp/B000J128I2/
+          priority: 3
+
+        - name: Hanafuda cards
+          note: Preferably of high quality.
+          image: boardgames/hanafuda.jpg
+          priority: 4
+
+        - name: Monopoly Nostalgia
+          image: boardgames/nostalgia.jpg
+          links:
+            - title: Amazon
+              url: http://www.amazon.com/dp/B000068FA8
+
+    - category: Books
+      type: books
+      items:
+        - name: København Con Amore
+          author: Jokum Rohde og Søren Ulrik Thomsen
+          isbn: 9788774567448
+          links:
+            - title:
+              url: http://www.sentura.dk/koebenhavn_uddrag.html
+          image: books/conamore.jpg
+          priority: 4
+
+        - name: More Information Than You Require
+          author: John Hodgman
+          isbn: 9780525950349
+          links:
+            - title: Amazon
+              url: http://www.amazon.com/More-Information-Than-You-Require/dp/0525950346
+          image: books/moreinformation.jpg
+          priority: 2
+
+        - name: Where Good Ideas Come From
+          author: Stephen Johnson
+          isbn: 9781594487712
+          links:
+            - title: Amazon
+              url: http://www.amazon.com/exec/obidos/ASIN/1594487715
+          priority: 3
