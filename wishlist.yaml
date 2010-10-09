@@ -26,6 +26,15 @@ wishes:
           links:
             - title: Amazon
               url: http://www.amazon.com/dp/B000068FA8
+          priority: 1
+
+        - name: Hacker Deluxe Edition
+          maker: Steve Jackson Games
+          image: boardgames/hacker.jpg
+          links:
+            - title: Official site
+              url: http://www.sjgames.com/hacker/
+          priority: 4
 
     - category: Books
       type: books
@@ -44,14 +53,54 @@ wishes:
           isbn: 9780525950349
           links:
             - title: Amazon
-              url: http://www.amazon.com/More-Information-Than-You-Require/dp/0525950346
+              url: http://www.amazon.co.uk/More-Information-Than-You-Require/dp/0525950346
           image: books/moreinformation.jpg
           priority: 2
 
         - name: Where Good Ideas Come From
           author: Stephen Johnson
           isbn: 9781594487712
+          image: books/goodideas.jpg
           links:
             - title: Amazon
-              url: http://www.amazon.com/exec/obidos/ASIN/1594487715
+              url: http://www.amazon.co.uk/Where-Good-Ideas-Come-Innovation/dp/1594487715
           priority: 3
+
+    - category: Series
+      type: other
+      items:
+        - name: The Best of the Colbert Report
+          image: series/colbertbest.jpg
+          links:
+            - title: Amazon
+              url: http://www.amazon.com/Best-Colbert-Report-Stephen/dp/B000UX6THU
+          priority: 1
+
+        - name: "Monty Python's Flying Circus - The Complete Boxset"
+          image: series/pythoncircus.jpg
+          links:
+            - title: Amazon
+              url: http://www.amazon.co.uk/Monty-Pythons-Flying-Circus-Complete/dp/B001EY5VNC/
+          priority: 4
+
+    - category: Toys
+      type: other
+      items:
+        - name: Buddha Board
+          notes: Original design, black
+          image: toys/buddhaboard.jpg
+          links:
+            - title: Official site
+              url: http://www.buddhaboard.com
+            - title: Amazon
+              url: http://www.amazon.co.uk/Buddha-Board-original-black/dp/B0010TEFFQ/
+          priority: 2
+
+        - name: Glow-in-the-dark Thinking Putty
+          notes: Preferably with a blacklight.
+          image: toys/thinkingputty.jpg
+          links:
+            - title: Putty World
+              url: http://www.puttyworld.com/nuclear.html
+          priority: 1
+
