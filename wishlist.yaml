@@ -67,6 +67,24 @@ wishes:
               url: http://www.amazon.co.uk/Where-Good-Ideas-Come-Innovation/dp/1594487715
           priority: 3
 
+        - name: "Cooking for Geeks: Real Science, Great Hacks, and Good Food"
+          author: Jeff Potter
+          isbn: 9780596805883
+          image: books/cookinggeeks.jpg
+          links:
+            - title: Amazon
+              url: http://www.amazon.co.uk/Cooking-Geeks-Science-Great-Hacks/dp/0596805888/
+          priority: 3
+
+        - name: "Predictably Irrational: The Hidden Forces that Shape Our Decisions"
+          author: Dan Ariely
+          isbn: 9780007256525
+          image: books/irrational.jpg
+          links:
+            - title: Amazon
+              url: http://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256523
+          priority: 4
+
     - category: Series
       type: other
       items:
@@ -82,6 +100,20 @@ wishes:
           links:
             - title: Amazon
               url: http://www.amazon.co.uk/Monty-Pythons-Flying-Circus-Complete/dp/B001EY5VNC/
+          priority: 4
+
+        - name: "Look Around You : Complete BBC Series 1"
+          image: series/lookaroundyou1.jpg
+          links:
+            - title: Amazon
+              url: http://www.amazon.co.uk/Look-Around-You-Complete-BBC/dp/B0000AISIY/
+          priority: 4
+
+        - name: "Look Around You : Complete BBC Series 2"
+          image: series/lookaroundyou2.jpg
+          links:
+            - title: Amazon
+              url: http://www.amazon.co.uk/Look-Around-You-Complete-BBC/dp/B000CCE228/
           priority: 4
 
     - category: Toys
