@@ -22,7 +22,8 @@ wishes:
           priority: 4
 
         - name: Monopoly Nostalgia
-          image: boardgames/nostalgia.jpg
+          maker: Hasbro
+          image: boardgames/monopoly.jpg
           links:
             - title: Amazon
               url: http://www.amazon.com/dp/B000068FA8
